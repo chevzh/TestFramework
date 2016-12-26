@@ -1,0 +1,331 @@
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:09:56,436 [Worker#STA_NP] INFO  Tests Start AddFriendTest
+2016-11-21 10:09:56,628 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:29,419 [Worker#STA_NP] INFO  Steps Login whitch login = testlabatestlaba@gmail.com and password = 12345
+2016-11-21 10:10:32,398 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,638 [Worker#STA_NP] INFO  Tests Start AddToPlaylist
+2016-11-21 10:10:35,639 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,717 [Worker#STA_NP] INFO  Tests Start AvatarUploadTest
+2016-11-21 10:10:35,717 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,727 [Worker#STA_NP] INFO  Tests Start ChangePasswordTest
+2016-11-21 10:10:35,729 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,738 [Worker#STA_NP] INFO  Tests Start FeedPostingTest
+2016-11-21 10:10:35,738 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,752 [Worker#STA_NP] INFO  Tests Start GameRecomendationsTest
+2016-11-21 10:10:35,752 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,763 [Worker#STA_NP] INFO  Tests Start GameSerchByNameTest
+2016-11-21 10:10:35,764 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,774 [Worker#STA_NP] INFO  Tests Start GameUploadingTest
+2016-11-21 10:10:35,775 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,784 [Worker#STA_NP] INFO  Tests Start LastPlayedTest
+2016-11-21 10:10:35,784 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,792 [Worker#STA_NP] INFO  Tests Start LikeGameTest
+2016-11-21 10:10:35,793 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,801 [Worker#STA_NP] INFO  Tests Start LikePostInFeedTest
+2016-11-21 10:10:35,801 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,810 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:10:35,811 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,819 [Worker#STA_NP] INFO  Tests Start MyteTest
+2016-11-21 10:10:35,819 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,828 [Worker#STA_NP] INFO  Tests Start PrivateMessageTest
+2016-11-21 10:10:35,829 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 10:10:35,837 [Worker#STA_NP] INFO  Tests Start RateGameTest
+2016-11-21 10:10:35,837 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:16:05,666 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:16:05,707 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:17:04,208 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:17:04,230 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:24:37,553 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:24:37,581 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:25:19,085 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:25:19,104 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:27:14,129 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:27:14,147 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:29:34,342 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:29:34,360 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:44:46,482 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:44:46,629 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:51:06,358 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:51:06,376 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:53:48,409 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:53:48,432 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:55:03,949 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:55:03,968 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:57:29,823 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:57:29,842 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 10:58:34,397 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 10:58:34,415 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:01:15,564 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:01:15,589 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:02:29,035 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:02:29,058 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:02:56,095 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:02:56,120 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:03:41,334 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:03:41,352 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:06:30,797 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:06:30,824 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:07:12,488 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:07:12,507 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:08:06,569 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:08:06,587 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:09:16,391 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:09:16,421 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:10:41,155 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:10:41,177 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:15:43,271 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:15:43,299 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:18:40,782 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:18:40,809 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:20:02,182 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:20:02,211 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:24:24,025 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:24:24,044 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:26:58,554 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:26:58,573 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:27:51,532 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:27:51,551 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:28:51,181 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:28:51,200 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:30:26,809 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:30:26,826 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 11:31:49,058 [Worker#STA_NP] INFO  MainPage 
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-21 11:36:22,697 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-21 11:36:22,738 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-21 11:36:42,722 [Worker#STA_NP] INFO  MainPage 
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:01:31,613 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:01:31,754 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:02:12,157 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:02:12,190 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-25 12:02:40,039 [Worker#STA_NP] INFO  MainPage 
+2016-11-25 12:02:40,152 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:07:43,444 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:07:43,673 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:08:36,733 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:08:36,773 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:10:36,677 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:10:36,716 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-25 12:11:04,895 [Worker#STA_NP] INFO  MainPage 
+2016-11-25 12:11:04,930 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:11:35,909 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:11:35,953 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-25 12:12:03,783 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:13:08,718 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:13:08,751 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-25 12:13:29,263 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:14:42,107 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:14:42,149 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:16:12,441 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:16:12,483 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:17:39,588 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:17:39,620 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:18:29,218 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:18:29,260 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:19:27,539 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:19:27,580 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-25 12:20:17,515 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:21:09,184 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:21:09,226 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:21:45,811 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:21:45,851 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:22:36,558 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:22:36,599 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:23:25,733 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:23:25,761 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:24:15,857 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:24:15,886 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:25:36,432 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:25:36,469 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-25 12:26:31,613 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-25 12:26:31,653 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-25 12:27:22,201 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:01:04,459 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:01:04,579 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:01:31,178 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:04:38,907 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:04:38,932 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:05:05,685 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:08:31,378 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:08:31,404 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:08:53,403 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:10:26,421 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:10:26,440 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:10:48,319 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:11:57,724 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:11:57,748 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:12:22,086 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:14:03,334 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:14:03,358 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:14:25,316 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:19:43,196 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:19:43,213 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:20:06,262 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:28:35,124 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:28:35,147 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:28:58,897 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:29:04,829 [Worker#STA_NP] INFO  Steps Log out success
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:29:42,744 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:29:42,765 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:30:56,361 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:31:08,907 [Worker#STA_NP] INFO  Steps Log out success
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:40:29,118 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:40:29,143 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:42:15,009 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-11-28 17:42:15,026 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-11-28 17:43:58,289 [Worker#STA_NP] INFO  MainPage Main page open
+2016-11-28 17:44:21,950 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 18:25:17,847 [14] INFO  Tests Start LoginTest
+2016-12-17 18:25:18,095 [14] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 18:30:35,352 [Worker#STA_NP] INFO  Tests Start LoginTest
+2016-12-17 18:30:35,385 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 19:27:27,356 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 19:31:02,860 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 19:39:55,716 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 19:42:08,965 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 19:44:23,698 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 19:55:01,804 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 19:56:04,184 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 19:56:54,915 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-17 19:59:52,453 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 08:41:56,527 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 08:44:28,428 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 08:51:45,070 [14] INFO  MainPage Main page open
+[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 08:54:52,953 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 08:56:04,459 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 08:57:31,155 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 09:08:30,000 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 09:30:30,192 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 09:43:27,948 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 09:44:20,596 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 09:45:47,035 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 09:48:32,827 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 09:50:06,634 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 10:00:17,726 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 10:17:13,009 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:23:33,935 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:25:20,726 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:31:26,716 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:33:31,648 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:33:57,005 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:36:27,628 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:46:58,530 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-18 11:46:58,579 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:47:18,050 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-18 11:47:18,107 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:47:46,483 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-18 11:47:46,545 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-18 11:48:17,777 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-18 11:49:14,723 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-18 11:49:23,329 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-18 11:49:31,545 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-18 11:49:39,676 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-18 11:49:47,876 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:28:22,491 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:29:50,994 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:31:22,627 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:32:45,464 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:34:32,434 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:35:27,049 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-25 12:35:47,266 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:38:01,641 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-25 12:38:23,413 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:38:59,229 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:41:04,177 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:43:00,370 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:43:48,783 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:53:20,400 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 12:55:28,764 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 13:05:37,058 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 13:32:38,598 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 13:34:54,892 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 13:48:16,509 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 13:49:52,790 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 13:52:00,335 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 13:53:55,277 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 13:55:28,885 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 13:56:57,401 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:14:03,365 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:16:17,368 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:17:31,478 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:18:09,010 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:25:37,398 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:26:21,198 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:33:06,850 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:33:43,801 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:35:47,964 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:36:17,268 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:37:18,280 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 15:44:53,180 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:19:30,399 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:24:03,878 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:28:37,663 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:31:30,921 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:44:06,301 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:46:09,232 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:47:11,142 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:49:23,289 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:54:08,290 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 18:56:18,394 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:02:09,869 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:03:40,176 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:05:21,615 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:07:05,977 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:12:03,009 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:13:02,676 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:14:12,767 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:15:14,696 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:16:33,784 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:21:59,034 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:23:14,274 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:26:04,950 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:27:38,322 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:29:31,320 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:31:28,957 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-25 19:33:11,412 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 11:15:13,706 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 11:15:52,235 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 11:17:10,215 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 11:27:24,672 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 11:28:33,146 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 11:31:16,894 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 11:35:36,813 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:03:23,891 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:04:57,619 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:05:27,603 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:06:14,521 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:07:15,061 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:07:55,140 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-26 12:08:13,518 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:08:53,276 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-26 12:09:10,109 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:09:35,945 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-26 12:09:53,887 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:10:35,232 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-26 12:10:53,864 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:15:24,454 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:16:25,079 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:17:20,494 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:19:55,975 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:20:46,560 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:21:58,392 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:23:02,137 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:37:07,030 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:38:31,928 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:39:42,717 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:41:11,241 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:45:33,524 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 12:47:50,225 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 13:09:22,231 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 13:10:06,713 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 13:14:44,976 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 13:15:28,969 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 13:16:14,237 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 15:33:42,705 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 15:34:25,713 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 15:35:54,729 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 15:40:27,399 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 15:41:27,889 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 15:42:10,652 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 15:43:25,434 [Worker#STA_NP] INFO  MainPage Main page open
+2016-12-26 15:43:57,613 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End[Header] Tests start[Footer] Tests End[Header] Tests start2016-12-26 15:44:29,842 [Worker#STA_NP] INFO  MainPage Main page open
+[Footer] Tests End
